@@ -206,3 +206,40 @@
 [18:30:04] [Server thread/INFO]: lugoflenbot2 left the game
 [18:30:15] [Server thread/INFO]: lugoflenbot lost connection: Disconnected
 [18:30:15] [Server thread/INFO]: lugoflenbot left the game
+[18:50:29] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[18:50:31] [Server thread/INFO]: Nothing changed. The player already is an operator
+[18:50:35] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[18:50:35] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[18:50:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:50:35] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:50:35] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.2
+[18:50:35] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.0.3
+[18:50:35] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.3
+[18:50:35] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling. If this is a reload and you experience issues, please reboot instead.
+[18:50:35] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[18:50:35] [Server thread/INFO]: Loaded 1174 recipes
+[18:50:36] [Server thread/INFO]: Loaded 1271 advancements
+[18:50:36] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.3
+[18:50:36] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.3 is now loaded. Registering protocol transformers and injecting...
+[18:50:36] [Server thread/ERROR]: [ViaVersion] ViaVersion is already loaded, this should work fine. If you get any console errors, try rebooting.
+[18:50:36] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[18:50:37] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[18:50:37] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[18:50:37] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[18:50:37] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[18:50:37] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.0.3
+[18:50:37] [Server thread/INFO]: [UserLogin] Loading server plugin UserLogin v2.13.1
+[18:50:37] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.2
+[18:50:37] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:50:37] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.2
+[18:50:37] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.3
+[18:50:37] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3-1.20.4 (765)
+[18:50:37] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.3
+[18:50:37] [Server thread/INFO]: [UserLogin] Enabling UserLogin v2.13.1
+[18:50:37] [Server thread/INFO]: [UserLogin] UserLogin v2.13.1 enabled
+[18:50:37] [Server thread/INFO]: CONSOLE: Reload complete.
+[18:50:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2557ms or 51 ticks behind
+[18:50:37] [Server thread/INFO]: Timings Reset
+[18:50:37] [Craft Scheduler Thread - 18 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[18:50:37] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.1.1, you're on: 5.0.3
+[18:50:38] [Craft Scheduler Thread - 20 - UserLogin/INFO]: [UserLogin] Running latest version! (v2.13.1)
