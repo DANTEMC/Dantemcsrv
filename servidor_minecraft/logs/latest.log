@@ -243,3 +243,33 @@
 [18:50:37] [Craft Scheduler Thread - 18 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
 [18:50:37] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.1.1, you're on: 5.0.3
 [18:50:38] [Craft Scheduler Thread - 20 - UserLogin/INFO]: [UserLogin] Running latest version! (v2.13.1)
+[18:57:11] [User Authenticator #9/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[18:57:11] [Server thread/INFO]: DANTEMC[/127.174.86.161:42221] logged in with entity id 9707 at ([world]-208.0, 86.0, -160.0)
+[18:57:29] [Server thread/INFO]: lugoflen issued server command: /tp DANTEMC
+[18:57:29] [Server thread/INFO]: [lugoflen: Teleported lugoflen to DANTEMC]
+[18:57:36] [Server thread/INFO]: lugoflen issued server command: /op DANTEMC
+[18:57:36] [Server thread/INFO]: [lugoflen: Made DANTEMC a server operator]
+[18:57:45] [Server thread/INFO]: lugoflen issued server command: /gamemode creative DANTEMC
+[18:57:45] [Server thread/INFO]: [lugoflen: Set DANTEMC's game mode to Creative Mode]
+[18:58:11] [Server thread/INFO]: DANTEMC lost connection: You stayed for too much time without logging in
+[18:58:11] [Server thread/INFO]: DANTEMC left the game
+[18:58:12] [User Authenticator #10/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[18:58:12] [Server thread/INFO]: DANTEMC[/127.174.86.161:49365] logged in with entity id 9885 at ([world]-208.0, 86.0, -160.0)
+[18:58:34] [Server thread/INFO]: lugoflen issued server command: /gamemode survival
+[18:58:34] [Server thread/INFO]: [lugoflen: Set own game mode to Survival Mode]
+[18:58:48] [Server thread/INFO]: lugoflen issued server command: /gamemode survival DANTEMC
+[18:58:48] [Server thread/INFO]: [lugoflen: Set DANTEMC's game mode to Survival Mode]
+[18:58:54] [Server thread/INFO]: lugoflen issued server command: /gamemode creative
+[18:58:54] [Server thread/INFO]: [lugoflen: Set own game mode to Creative Mode]
+[18:59:12] [Server thread/INFO]: DANTEMC lost connection: You stayed for too much time without logging in
+[18:59:12] [Server thread/INFO]: DANTEMC left the game
+[18:59:13] [User Authenticator #11/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[18:59:13] [Server thread/INFO]: DANTEMC[/127.174.86.161:35745] logged in with entity id 10014 at ([world]-208.0, 86.0, -160.0)
+[19:00:13] [Server thread/INFO]: DANTEMC lost connection: You stayed for too much time without logging in
+[19:00:13] [Server thread/INFO]: DANTEMC left the game
+[19:00:14] [User Authenticator #12/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[19:00:14] [Server thread/INFO]: DANTEMC[/127.174.86.161:44377] logged in with entity id 10139 at ([world]-208.0, 86.0, -160.0)
+[19:01:14] [Server thread/INFO]: DANTEMC lost connection: You stayed for too much time without logging in
+[19:01:14] [Server thread/INFO]: DANTEMC left the game
+[19:01:15] [User Authenticator #13/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[19:01:15] [Server thread/INFO]: DANTEMC[/127.174.86.161:52503] logged in with entity id 10272 at ([world]-208.0, 86.0, -160.0)
