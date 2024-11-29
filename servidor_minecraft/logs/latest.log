@@ -471,3 +471,20 @@ Source 0: com.viaversion.viabackwards.protocol.v1_20_3to1_20_2.Protocol1_20_3To1
 [19:15:17] [Server thread/INFO]: DANTEMC was slain by lugoflen
 [19:15:33] [Server thread/INFO]: lugoflen issued server command: /gamemode creative DANTEMC
 [19:15:33] [Server thread/INFO]: [lugoflen: Set DANTEMC's game mode to Creative Mode]
+[19:23:05] [User Authenticator #18/INFO]: UUID of player lugoflenbot2 is 42209a46-18ad-3a8f-9a22-f862b217e548
+[19:23:05] [Server thread/INFO]: lugoflenbot2[/127.26.30.54:36555] logged in with entity id 12901 at ([world]-208.0, 86.0, -160.0)
+[19:23:42] [Server thread/INFO]: lugoflen issued server command: /ul unregister
+[19:24:03] [Server thread/INFO]: lugoflen issued server command: /ul set login lugoflen
+[19:24:05] [Server thread/INFO]: lugoflenbot2 lost connection: You stayed for too much time without logging in
+[19:24:05] [Server thread/INFO]: lugoflenbot2 left the game
+[19:24:11] [Server thread/INFO]: lugoflen issued server command: /ul set login lugoflen
+[19:24:21] [User Authenticator #19/INFO]: UUID of player lugoflenbot2 is 42209a46-18ad-3a8f-9a22-f862b217e548
+[19:24:21] [Server thread/INFO]: lugoflenbot2[/127.26.30.54:55667] logged in with entity id 13063 at ([world]-208.442578807014, 81.0, -159.61088388691007)
+[19:24:35] [Server thread/INFO]: lugoflenbot2 lost connection: Disconnected
+[19:24:35] [Server thread/INFO]: lugoflenbot2 left the game
+[19:24:38] [User Authenticator #19/INFO]: UUID of player lugoflenbot2 is 42209a46-18ad-3a8f-9a22-f862b217e548
+[19:24:38] [Server thread/INFO]: lugoflenbot2[/127.26.30.54:53613] logged in with entity id 13091 at ([world]-208.442578807014, 81.0, -159.61088388691007)
+[19:25:38] [Server thread/INFO]: lugoflenbot2 lost connection: You stayed for too much time without logging in
+[19:25:38] [Server thread/INFO]: lugoflenbot2 left the game
+[19:26:01] [Server thread/INFO]: DANTEMC lost connection: Disconnected
+[19:26:01] [Server thread/INFO]: DANTEMC left the game
