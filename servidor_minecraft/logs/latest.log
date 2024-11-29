@@ -612,3 +612,10 @@ Source 0: com.viaversion.viabackwards.protocol.v1_20_3to1_20_2.Protocol1_20_3To1
 [20:31:07] [Craft Scheduler Thread - 98 - UserLogin/INFO]: [UserLogin] Running latest version! (v2.13.1)
 [20:31:52] [User Authenticator #27/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
 [20:31:52] [Server thread/INFO]: DANTEMC[/127.53.204.132:49845] logged in with entity id 17335 at ([world]-208.442578807014, 81.0, -159.61088388691007)
+[20:32:24] [Server thread/INFO]: lugoflen issued server command: /ul help
+[20:32:52] [Server thread/INFO]: DANTEMC lost connection: You stayed for too much time without logging in
+[20:32:52] [Server thread/INFO]: DANTEMC left the game
+[20:33:12] [User Authenticator #28/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[20:33:12] [Server thread/INFO]: DANTEMC[/127.53.204.132:40845] logged in with entity id 17499 at ([world]-208.442578807014, 81.0, -159.61088388691007)
+[20:34:12] [Server thread/INFO]: DANTEMC lost connection: You stayed for too much time without logging in
+[20:34:12] [Server thread/INFO]: DANTEMC left the game
