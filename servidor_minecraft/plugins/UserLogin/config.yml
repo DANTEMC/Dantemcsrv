@@ -93,11 +93,11 @@ restrictions:
   itemPickup: true # 1.12+ only
   inventoryClick: false
   damage:
-    attack: false
+    attack: true
     receive: true
   movement:
-    enabled: false
-    warnFrequency: 20 # Message players every few ticks when they move. (-1 to disable)
+    enabled: true
+    warnFrequency: 1 # Message players every few ticks when they move. (-1 to disable)
 
 
 # Enable/disable specific teleports

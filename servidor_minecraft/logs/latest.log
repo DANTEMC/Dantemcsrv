@@ -340,3 +340,134 @@
 [19:11:38] [Server thread/INFO]: DANTEMC left the game
 [19:11:40] [User Authenticator #16/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
 [19:11:40] [Server thread/INFO]: DANTEMC[/127.174.86.161:36001] logged in with entity id 11504 at ([world]-208.0, 86.0, -160.0)
+[19:11:40] [Server thread/INFO]: DANTEMC lost connection: Disconnected
+[19:11:40] [Server thread/INFO]: DANTEMC left the game
+[19:11:56] [User Authenticator #16/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[19:11:56] [Server thread/INFO]: DANTEMC[/127.174.86.161:34873] logged in with entity id 11528 at ([world]-208.0, 86.0, -160.0)
+[19:12:10] [Server thread/INFO]: lugoflen issued server command: /gamemode creative
+[19:12:41] [Server thread/INFO]: lugoflen issued server command: /gamemode creative
+[19:13:53] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[19:13:53] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[19:13:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:13:53] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:13:53] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.2
+[19:13:53] [Server thread/INFO]: [UserLogin] Disabling UserLogin v2.13.1
+[19:13:53] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.0.3
+[19:13:53] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.3
+[19:13:53] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling. If this is a reload and you experience issues, please reboot instead.
+[19:13:53] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[19:13:53] [Server thread/INFO]: Loaded 1174 recipes
+[19:13:54] [Server thread/INFO]: Loaded 1271 advancements
+[19:13:54] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.3
+[19:13:54] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.3 is now loaded. Registering protocol transformers and injecting...
+[19:13:54] [Server thread/ERROR]: [ViaVersion] ViaVersion is already loaded, this should work fine. If you get any console errors, try rebooting.
+[19:13:54] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[19:13:54] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[19:13:54] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[19:13:54] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[19:13:55] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[19:13:55] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.0.3
+[19:13:55] [Server thread/INFO]: [UserLogin] Loading server plugin UserLogin v2.13.1
+[19:13:55] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.2
+[19:13:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:13:55] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.2
+[19:13:55] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.3
+[19:13:55] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3-1.20.4 (765)
+[19:13:55] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.3
+[19:13:55] [Server thread/INFO]: [UserLogin] Enabling UserLogin v2.13.1
+[19:13:55] [Server thread/INFO]: [UserLogin] UserLogin v2.13.1 enabled
+[19:13:55] [Server thread/INFO]: CONSOLE: Reload complete.
+[19:13:55] [Server thread/INFO]: Timings Reset
+[19:13:55] [Craft Scheduler Thread - 47 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[19:13:55] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.1.1, you're on: 5.0.3
+[19:13:55] [Craft Scheduler Thread - 49 - UserLogin/INFO]: [UserLogin] Running latest version! (v2.13.1)
+[19:14:30] [Server thread/INFO]: lugoflen has made the advancement [Monster Hunter]
+[19:14:30] [Netty Epoll Server IO #2/WARN]: [ViaVersion] ERROR IN Protocol1_20_3To1_20_2 IN REMAP OF SYSTEM_CHAT (0x69)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: io.netty.handler.codec.EncoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+[19:14:30] [Netty Epoll Server IO #2/WARN]: Source 0: com.viaversion.viabackwards.protocol.v1_20_3to1_20_2.Protocol1_20_3To1_20_2$$Lambda/0x00007806e1cb9140
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:107)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:966)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:934)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:984)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at net.minecraft.network.NetworkManager.c(NetworkManager.java:449)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at net.minecraft.network.NetworkManager.lambda$sendPacket$10(NetworkManager.java:434)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:413)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: Caused by: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+[19:14:30] [Netty Epoll Server IO #2/WARN]: Source 0: com.viaversion.viabackwards.protocol.v1_20_3to1_20_2.Protocol1_20_3To1_20_2$$Lambda/0x00007806e1cb9140
+[19:14:30] [Netty Epoll Server IO #2/WARN]: Caused by: java.lang.IllegalStateException: zip file closed
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at java.base/java.util.zip.ZipFile.ensureOpen(ZipFile.java:846)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at java.base/java.util.zip.ZipFile.getEntry(ZipFile.java:338)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at java.base/java.util.jar.JarFile.getEntry(JarFile.java:516)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at java.base/java.util.jar.JarFile.getJarEntry(JarFile.java:471)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:209)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:593)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:169)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at ViaVersion-5.0.3.jar//com.viaversion.nbt.tag.CompoundTag.toString(CompoundTag.java:491)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at java.base/java.lang.StringConcatHelper.stringOf(StringConcatHelper.java:467)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at java.base/java.lang.StringConcatHelper.simpleConcat(StringConcatHelper.java:422)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at ViaVersion-5.0.3.jar//com.viaversion.viaversion.util.ComponentUtil.tagToJson(ComponentUtil.java:63)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at ViaBackwards-5.0.3.jar//com.viaversion.viabackwards.protocol.v1_20_3to1_20_2.Protocol1_20_3To1_20_2.convertComponent(Protocol1_20_3To1_20_2.java:370)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at ViaVersion-5.0.3.jar//com.viaversion.viaversion.api.protocol.AbstractProtocol.transform(AbstractProtocol.java:405)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at ViaVersion-5.0.3.jar//com.viaversion.viaversion.protocol.packet.PacketWrapperImpl.apply(PacketWrapperImpl.java:369)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at ViaVersion-5.0.3.jar//com.viaversion.viaversion.protocol.ProtocolPipelineImpl.transform(ProtocolPipelineImpl.java:122)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at ViaVersion-5.0.3.jar//com.viaversion.viaversion.connection.UserConnectionImpl.transform(UserConnectionImpl.java:337)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at ViaVersion-5.0.3.jar//com.viaversion.viaversion.connection.UserConnectionImpl.transformClientbound(UserConnectionImpl.java:313)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at ViaVersion-5.0.3.jar//com.viaversion.viaversion.bukkit.handlers.BukkitEncodeHandler.encode(BukkitEncodeHandler.java:58)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at ViaVersion-5.0.3.jar//com.viaversion.viaversion.bukkit.handlers.BukkitEncodeHandler.encode(BukkitEncodeHandler.java:35)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:90)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:966)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:934)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:984)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at net.minecraft.network.NetworkManager.c(NetworkManager.java:449)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at net.minecraft.network.NetworkManager.lambda$sendPacket$10(NetworkManager.java:434)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:413)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[19:14:30] [Server thread/INFO]: DANTEMC lost connection: Internal Exception: io.netty.handler.codec.EncoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Source 0: com.viaversion.viabackwards.protocol.v1_20_3to1_20_2.Protocol1_20_3To1_20_2$$Lambda/0x00007806e1cb9140
+[19:14:30] [Server thread/INFO]: DANTEMC left the game
+[19:15:10] [User Authenticator #17/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[19:15:10] [Server thread/INFO]: DANTEMC[/127.174.86.161:39601] logged in with entity id 11954 at ([world]-208.0, 86.0, -160.0)
+[19:15:17] [Server thread/INFO]: DANTEMC was slain by lugoflen
+[19:15:33] [Server thread/INFO]: lugoflen issued server command: /gamemode creative DANTEMC
+[19:15:33] [Server thread/INFO]: [lugoflen: Set DANTEMC's game mode to Creative Mode]
