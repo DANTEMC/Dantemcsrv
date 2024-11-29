@@ -151,3 +151,32 @@
 [18:09:50] [Server thread/INFO]: lugoflenbot2 joined the game
 [18:09:50] [Server thread/INFO]: lugoflenbot2[/127.87.38.188:48917] logged in with entity id 4207 at ([world]-176.7853192435725, 61.648484946681414, -217.54335564085562)
 [18:10:12] [Server thread/INFO]: lugoflenbot2 drowned
+[18:14:01] [Server thread/INFO]: lugoflenbot2 has made the advancement [Stone Age]
+[18:14:15] [Server thread/INFO]: lugoflen issued server command: /gamemode creative lugoflenbot2
+[18:14:15] [Server thread/INFO]: [lugoflen: Set lugoflenbot2's game mode to Creative Mode]
+[18:14:22] [Server thread/INFO]: lugoflenbot2 has made the advancement [Cover Me with Diamonds]
+[18:14:48] [Server thread/INFO]: lugoflen issued server command: /kill lugoflenbot2
+[18:14:48] [Server thread/INFO]: lugoflenbot2 was killed
+[18:14:48] [Server thread/INFO]: [lugoflen: Killed lugoflenbot2]
+[18:14:53] [Server thread/INFO]: lugoflen has made the advancement [Stone Age]
+[18:16:40] [Server thread/INFO]: lugoflen issued server command: /kick lugoflenbot2
+[18:16:40] [Server thread/INFO]: lugoflenbot2 lost connection: Kicked by an operator
+[18:16:40] [Server thread/INFO]: lugoflenbot2 left the game
+[18:16:40] [Server thread/INFO]: [lugoflen: Kicked lugoflenbot2: Kicked by an operator]
+[18:16:57] [User Authenticator #6/INFO]: UUID of player lugoflenbot2 is 42209a46-18ad-3a8f-9a22-f862b217e548
+[18:16:57] [Server thread/INFO]: lugoflenbot2 joined the game
+[18:16:57] [Server thread/INFO]: lugoflenbot2[/127.87.38.188:48193] logged in with entity id 5087 at ([world]-185.56106195114185, 62.067235370807474, -118.3)
+[18:17:17] [Server thread/INFO]: lugoflen issued server command: /kick lugoflenbot2
+[18:17:17] [Server thread/INFO]: lugoflenbot2 lost connection: Kicked by an operator
+[18:17:17] [Server thread/INFO]: lugoflenbot2 left the game
+[18:17:17] [Server thread/INFO]: [lugoflen: Kicked lugoflenbot2: Kicked by an operator]
+[18:17:34] [User Authenticator #6/INFO]: UUID of player lugoflenbot2 is 42209a46-18ad-3a8f-9a22-f862b217e548
+[18:17:34] [Server thread/INFO]: lugoflenbot2 joined the game
+[18:17:34] [Server thread/INFO]: lugoflenbot2[/127.87.38.188:49887] logged in with entity id 5393 at ([world]-170.4108645018959, 59.80111176290301, -109.2065313244955)
+[18:18:55] [User Authenticator #7/INFO]: UUID of player lugoflenbot is e57338d1-01ca-3da1-878a-4dee86f4fc35
+[18:18:55] [Server thread/INFO]: lugoflenbot joined the game
+[18:18:55] [Server thread/INFO]: lugoflenbot[/127.102.239.27:51145] logged in with entity id 5581 at ([world]-210.5, 87.0, -159.5)
+[18:20:53] [Server thread/INFO]: lugoflen issued server command: /gamemode creative lugoflenbot
+[18:20:53] [Server thread/INFO]: [lugoflen: Set lugoflenbot's game mode to Creative Mode]
+[18:21:16] [Server thread/INFO]: lugoflen issued server command: /tp lugoflenbot2 lugoflen
+[18:21:16] [Server thread/INFO]: [lugoflen: Teleported lugoflenbot2 to lugoflen]
