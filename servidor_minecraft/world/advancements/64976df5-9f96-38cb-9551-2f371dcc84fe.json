@@ -1,13 +1,19 @@
 {
-  "minecraft:story/obtain_armor": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "iron_boots": "2024-11-29 17:51:11 +0000"
+      "unlock_right_away": "2024-11-29 17:47:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "has_iron_boots": "2024-11-29 17:51:11 +0000"
+      "minecraft:old_growth_birch_forest": "2024-11-29 17:47:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-11-29 17:48:45 +0000"
     },
     "done": true
   },
@@ -23,9 +29,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
+  "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
-      "unlock_right_away": "2024-11-29 17:47:15 +0000"
+      "has_log": "2024-11-29 17:50:02 +0000"
     },
     "done": true
   },
@@ -35,15 +41,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "killed_something": "2024-11-29 17:48:45 +0000"
+      "iron_boots": "2024-11-29 17:51:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_wood": {
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
-      "has_log": "2024-11-29 17:50:02 +0000"
+      "has_iron_boots": "2024-11-29 17:51:11 +0000"
     },
     "done": true
   },
@@ -53,11 +59,11 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2024-11-29 17:47:16 +0000"
+      "diamond_chestplate": "2024-11-29 18:03:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "DataVersion": 3700
 }
