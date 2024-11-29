@@ -488,3 +488,60 @@ Source 0: com.viaversion.viabackwards.protocol.v1_20_3to1_20_2.Protocol1_20_3To1
 [19:25:38] [Server thread/INFO]: lugoflenbot2 left the game
 [19:26:01] [Server thread/INFO]: DANTEMC lost connection: Disconnected
 [19:26:01] [Server thread/INFO]: DANTEMC left the game
+[19:32:04] [User Authenticator #20/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[19:32:04] [Server thread/INFO]: DANTEMC[/127.174.86.161:36347] logged in with entity id 14010 at ([world]-208.442578807014, 81.0, -159.61088388691007)
+[19:32:20] [Server thread/INFO]: DANTEMC lost connection: Disconnected
+[19:32:20] [Server thread/INFO]: DANTEMC left the game
+[19:32:28] [User Authenticator #20/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[19:32:28] [Server thread/INFO]: DANTEMC[/127.174.86.161:51839] logged in with entity id 14062 at ([world]-208.442578807014, 81.0, -159.61088388691007)
+[19:32:28] [Server thread/INFO]: DANTEMC lost connection: Disconnected
+[19:32:28] [Server thread/INFO]: DANTEMC left the game
+[19:33:57] [User Authenticator #21/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[19:33:57] [Server thread/INFO]: DANTEMC[/127.174.86.161:59247] logged in with entity id 14246 at ([world]-208.442578807014, 81.0, -159.61088388691007)
+[19:34:26] [Server thread/INFO]: lugoflen issued server command: /tp DANTEMC lugoflen
+[19:34:26] [Server thread/INFO]: [lugoflen: Teleported DANTEMC to lugoflen]
+[19:34:59] [Server thread/INFO]: DANTEMC lost connection: Disconnected
+[19:34:59] [Server thread/INFO]: DANTEMC left the game
+[19:35:01] [User Authenticator #22/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[19:35:01] [Server thread/INFO]: DANTEMC[/127.174.86.161:34383] logged in with entity id 14406 at ([world]-208.442578807014, 81.0, -159.61088388691007)
+[19:35:02] [Async Chat Thread - #2/INFO]: [Not Secure] <DANTEMC> yo soy un jugador regular 
+[19:35:03] [Server thread/INFO]: DANTEMC lost connection: Disconnected
+[19:35:03] [Server thread/INFO]: DANTEMC left the game
+[19:35:13] [User Authenticator #22/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[19:35:13] [Server thread/INFO]: DANTEMC[/127.174.86.161:52385] logged in with entity id 14438 at ([world]-208.442578807014, 81.0, -159.61088388691007)
+[19:35:14] [Async Chat Thread - #2/INFO]: [Not Secure] <DANTEMC> yo soy un jugador regular 
+[19:35:14] [Server thread/INFO]: DANTEMC lost connection: Disconnected
+[19:35:14] [Server thread/INFO]: DANTEMC left the game
+[19:35:57] [User Authenticator #22/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[19:35:57] [Server thread/INFO]: DANTEMC[/127.174.86.161:42379] logged in with entity id 14527 at ([world]-208.442578807014, 81.0, -159.61088388691007)
+[19:35:59] [Async Chat Thread - #2/INFO]: [Not Secure] <DANTEMC> yo soy un jugador regular 
+[19:35:59] [Server thread/INFO]: DANTEMC lost connection: Disconnected
+[19:35:59] [Server thread/INFO]: DANTEMC left the game
+[19:36:34] [User Authenticator #22/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[19:36:34] [Server thread/INFO]: DANTEMC[/127.174.86.161:42723] logged in with entity id 14608 at ([world]-208.442578807014, 81.0, -159.61088388691007)
+[19:36:49] [Server thread/INFO]: DANTEMC lost connection: Disconnected
+[19:36:49] [Server thread/INFO]: DANTEMC left the game
+[19:37:02] [User Authenticator #22/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[19:37:02] [Server thread/INFO]: DANTEMC[/127.174.86.161:46235] logged in with entity id 14672 at ([world]-208.442578807014, 81.0, -159.61088388691007)
+[19:37:30] [Server thread/INFO]: DANTEMC lost connection: Disconnected
+[19:37:30] [Server thread/INFO]: DANTEMC left the game
+[19:37:43] [User Authenticator #22/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[19:37:43] [Server thread/INFO]: DANTEMC[/127.174.86.161:51441] logged in with entity id 14741 at ([world]-208.442578807014, 81.0, -159.61088388691007)
+[19:38:02] [Server thread/INFO]: DANTEMC lost connection: Disconnected
+[19:38:02] [Server thread/INFO]: DANTEMC left the game
+[19:38:05] [User Authenticator #22/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[19:38:05] [Server thread/INFO]: DANTEMC[/127.174.86.161:46905] logged in with entity id 14790 at ([world]-208.442578807014, 81.0, -159.61088388691007)
+[19:38:35] [Server thread/INFO]: DANTEMC lost connection: Disconnected
+[19:38:35] [Server thread/INFO]: DANTEMC left the game
+[19:38:37] [User Authenticator #22/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[19:38:37] [Server thread/INFO]: DANTEMC[/127.174.86.161:38885] logged in with entity id 14850 at ([world]-208.442578807014, 81.0, -159.61088388691007)
+[19:38:55] [Server thread/INFO]: DANTEMC lost connection: Disconnected
+[19:38:55] [Server thread/INFO]: DANTEMC left the game
+[19:38:57] [User Authenticator #22/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[19:38:57] [Server thread/INFO]: DANTEMC[/127.174.86.161:51693] logged in with entity id 14891 at ([world]-208.442578807014, 81.0, -159.61088388691007)
+[19:38:57] [Server thread/INFO]: DANTEMC lost connection: Disconnected
+[19:38:57] [Server thread/INFO]: DANTEMC left the game
+[19:40:07] [User Authenticator #23/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[19:40:07] [Server thread/INFO]: DANTEMC[/127.174.86.161:52851] logged in with entity id 15151 at ([world]-208.442578807014, 81.0, -159.61088388691007)
+[19:40:22] [Server thread/INFO]: lugoflen issued server command: /tp DANTEMC lugoflen
+[19:40:22] [Server thread/INFO]: [lugoflen: Teleported DANTEMC to lugoflen]
