@@ -273,3 +273,70 @@
 [19:01:14] [Server thread/INFO]: DANTEMC left the game
 [19:01:15] [User Authenticator #13/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
 [19:01:15] [Server thread/INFO]: DANTEMC[/127.174.86.161:52503] logged in with entity id 10272 at ([world]-208.0, 86.0, -160.0)
+[19:02:15] [Server thread/INFO]: DANTEMC lost connection: You stayed for too much time without logging in
+[19:02:15] [Server thread/INFO]: DANTEMC left the game
+[19:02:15] [User Authenticator #14/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[19:02:15] [Server thread/INFO]: DANTEMC[/127.174.86.161:56225] logged in with entity id 10395 at ([world]-208.0, 86.0, -160.0)
+[19:02:20] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[19:02:20] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[19:02:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:02:20] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:02:20] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.2
+[19:02:20] [Server thread/INFO]: [UserLogin] Disabling UserLogin v2.13.1
+[19:02:20] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.0.3
+[19:02:20] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.3
+[19:02:20] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling. If this is a reload and you experience issues, please reboot instead.
+[19:02:20] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[19:02:20] [Server thread/INFO]: Loaded 1174 recipes
+[19:02:20] [Server thread/INFO]: Loaded 1271 advancements
+[19:02:21] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.3
+[19:02:21] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.3 is now loaded. Registering protocol transformers and injecting...
+[19:02:21] [Server thread/ERROR]: [ViaVersion] ViaVersion is already loaded, this should work fine. If you get any console errors, try rebooting.
+[19:02:21] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[19:02:21] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[19:02:21] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[19:02:21] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[19:02:22] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[19:02:22] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.0.3
+[19:02:22] [Server thread/INFO]: [UserLogin] Loading server plugin UserLogin v2.13.1
+[19:02:22] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.2
+[19:02:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:02:22] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.2
+[19:02:22] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.3
+[19:02:22] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3-1.20.4 (765)
+[19:02:22] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.3
+[19:02:22] [Server thread/INFO]: [UserLogin] Enabling UserLogin v2.13.1
+[19:02:22] [Server thread/INFO]: [UserLogin] UserLogin v2.13.1 enabled
+[19:02:22] [Server thread/INFO]: CONSOLE: Reload complete.
+[19:02:22] [Server thread/INFO]: Timings Reset
+[19:02:22] [Craft Scheduler Thread - 28 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[19:02:22] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.1.1, you're on: 5.0.3
+[19:02:22] [Craft Scheduler Thread - 28 - UserLogin/INFO]: [UserLogin] Running latest version! (v2.13.1)
+[19:06:02] [Server thread/INFO]: DANTEMC lost connection: Disconnected
+[19:06:02] [Server thread/INFO]: DANTEMC left the game
+[19:06:04] [User Authenticator #15/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[19:06:04] [Server thread/INFO]: DANTEMC[/127.174.86.161:50743] logged in with entity id 10840 at ([world]-208.0, 86.0, -160.0)
+[19:06:05] [Server thread/INFO]: DANTEMC lost connection: Disconnected
+[19:06:05] [Server thread/INFO]: DANTEMC left the game
+[19:06:11] [User Authenticator #15/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[19:06:11] [Server thread/INFO]: DANTEMC[/127.174.86.161:54481] logged in with entity id 10851 at ([world]-208.0, 86.0, -160.0)
+[19:06:11] [Server thread/INFO]: DANTEMC lost connection: Disconnected
+[19:06:11] [Server thread/INFO]: DANTEMC left the game
+[19:06:29] [User Authenticator #15/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[19:06:29] [Server thread/INFO]: DANTEMC[/127.174.86.161:46403] logged in with entity id 10896 at ([world]-208.0, 86.0, -160.0)
+[19:06:29] [Server thread/INFO]: DANTEMC lost connection: Disconnected
+[19:06:29] [Server thread/INFO]: DANTEMC left the game
+[19:07:14] [User Authenticator #15/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[19:07:14] [Server thread/INFO]: DANTEMC[/127.174.86.161:49001] logged in with entity id 10974 at ([world]-208.0, 86.0, -160.0)
+[19:07:39] [Server thread/INFO]: DANTEMC lost connection: Disconnected
+[19:07:39] [Server thread/INFO]: DANTEMC left the game
+[19:07:41] [User Authenticator #15/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[19:07:41] [Server thread/INFO]: DANTEMC[/127.174.86.161:33833] logged in with entity id 11041 at ([world]-208.0, 86.0, -160.0)
+[19:07:42] [Server thread/INFO]: DANTEMC lost connection: Disconnected
+[19:07:42] [Server thread/INFO]: DANTEMC left the game
+[19:08:01] [User Authenticator #15/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[19:08:01] [Server thread/INFO]: DANTEMC[/127.174.86.161:45293] logged in with entity id 11071 at ([world]-208.0, 86.0, -160.0)
+[19:11:38] [Server thread/INFO]: DANTEMC lost connection: Disconnected
+[19:11:38] [Server thread/INFO]: DANTEMC left the game
+[19:11:40] [User Authenticator #16/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[19:11:40] [Server thread/INFO]: DANTEMC[/127.174.86.161:36001] logged in with entity id 11504 at ([world]-208.0, 86.0, -160.0)
