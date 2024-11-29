@@ -619,3 +619,5 @@ Source 0: com.viaversion.viabackwards.protocol.v1_20_3to1_20_2.Protocol1_20_3To1
 [20:33:12] [Server thread/INFO]: DANTEMC[/127.53.204.132:40845] logged in with entity id 17499 at ([world]-208.442578807014, 81.0, -159.61088388691007)
 [20:34:12] [Server thread/INFO]: DANTEMC lost connection: You stayed for too much time without logging in
 [20:34:12] [Server thread/INFO]: DANTEMC left the game
+[20:55:02] [Server thread/INFO]: lugoflen lost connection: Disconnected
+[20:55:02] [Server thread/INFO]: lugoflen left the game
