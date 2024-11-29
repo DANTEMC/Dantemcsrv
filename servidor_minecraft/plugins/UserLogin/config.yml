@@ -131,7 +131,8 @@ bungeeCord:
   # This allows players to be automatically logged in
   # when joining from another server in the network
   # (Requires the UserLoginProxy plugin to work)
-  autoLogin: false
+  autoLogin: true
+
 
 
 # Database options

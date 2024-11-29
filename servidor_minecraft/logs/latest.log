@@ -567,3 +567,48 @@ Source 0: com.viaversion.viabackwards.protocol.v1_20_3to1_20_2.Protocol1_20_3To1
 [19:44:30] [Server thread/INFO]: DANTEMC left the game
 [19:52:16] [Server thread/INFO]: lugoflen lost connection: Disconnected
 [19:52:16] [Server thread/INFO]: lugoflen left the game
+[20:28:34] [User Authenticator #25/INFO]: UUID of player lugoflen is 64976df5-9f96-38cb-9551-2f371dcc84fe
+[20:28:36] [Server thread/INFO]: lugoflen[/127.132.18.43:58621] logged in with entity id 16743 at ([world]-208.442578807014, 81.0, -159.61088388691007)
+[20:29:45] [User Authenticator #26/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[20:29:45] [Server thread/INFO]: DANTEMC[/127.53.204.132:46819] logged in with entity id 17022 at ([world]-208.442578807014, 81.0, -159.61088388691007)
+[20:29:52] [Server thread/INFO]: lugoflen issued server command: /tp DANTEMC
+[20:29:52] [Server thread/INFO]: [lugoflen: Teleported lugoflen to DANTEMC]
+[20:30:45] [Server thread/INFO]: DANTEMC lost connection: You stayed for too much time without logging in
+[20:30:45] [Server thread/INFO]: DANTEMC left the game
+[20:31:05] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[20:31:05] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[20:31:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:31:05] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:31:05] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.2
+[20:31:05] [Server thread/INFO]: [UserLogin] Disabling UserLogin v2.13.1
+[20:31:05] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.0.3
+[20:31:05] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.3
+[20:31:05] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling. If this is a reload and you experience issues, please reboot instead.
+[20:31:05] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[20:31:05] [Server thread/INFO]: Loaded 1174 recipes
+[20:31:05] [Server thread/INFO]: Loaded 1271 advancements
+[20:31:06] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.3
+[20:31:06] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.3 is now loaded. Registering protocol transformers and injecting...
+[20:31:06] [Server thread/ERROR]: [ViaVersion] ViaVersion is already loaded, this should work fine. If you get any console errors, try rebooting.
+[20:31:06] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[20:31:06] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[20:31:06] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[20:31:06] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[20:31:06] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[20:31:07] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.0.3
+[20:31:07] [Server thread/INFO]: [UserLogin] Loading server plugin UserLogin v2.13.1
+[20:31:07] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.2
+[20:31:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:31:07] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.2
+[20:31:07] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.3
+[20:31:07] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3-1.20.4 (765)
+[20:31:07] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.3
+[20:31:07] [Server thread/INFO]: [UserLogin] Enabling UserLogin v2.13.1
+[20:31:07] [Server thread/INFO]: [UserLogin] UserLogin v2.13.1 enabled
+[20:31:07] [Server thread/INFO]: CONSOLE: Reload complete.
+[20:31:07] [Server thread/INFO]: Timings Reset
+[20:31:07] [Craft Scheduler Thread - 96 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[20:31:07] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.1.1, you're on: 5.0.3
+[20:31:07] [Craft Scheduler Thread - 98 - UserLogin/INFO]: [UserLogin] Running latest version! (v2.13.1)
+[20:31:52] [User Authenticator #27/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[20:31:52] [Server thread/INFO]: DANTEMC[/127.53.204.132:49845] logged in with entity id 17335 at ([world]-208.442578807014, 81.0, -159.61088388691007)
