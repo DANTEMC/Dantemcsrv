@@ -8,7 +8,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_birch_forest": "2024-11-29 17:47:16 +0000",
-      "minecraft:ocean": "2024-11-29 18:15:28 +0000"
+      "minecraft:dark_forest": "2024-11-29 18:23:23 +0000",
+      "minecraft:ocean": "2024-11-29 18:15:28 +0000",
+      "minecraft:grove": "2024-11-29 18:21:03 +0000"
     },
     "done": false
   },

@@ -180,3 +180,29 @@
 [18:20:53] [Server thread/INFO]: [lugoflen: Set lugoflenbot's game mode to Creative Mode]
 [18:21:16] [Server thread/INFO]: lugoflen issued server command: /tp lugoflenbot2 lugoflen
 [18:21:16] [Server thread/INFO]: [lugoflen: Teleported lugoflenbot2 to lugoflen]
+[18:21:44] [Server thread/INFO]: lugoflen issued server command: /setblock ~ ~ ~ minecraft:barrier
+[18:21:44] [Server thread/INFO]: [lugoflen: Changed the block at -342, 161, -162]
+[18:21:58] [Server thread/INFO]: lugoflen issued server command: /tp lugoflenbot lugoflen
+[18:21:58] [Server thread/INFO]: [lugoflen: Teleported lugoflenbot to lugoflen]
+[18:22:28] [Server thread/INFO]: lugoflen issued server command: /time set day
+[18:22:28] [Server thread/INFO]: [lugoflen: Set the time to 1000]
+[18:22:37] [Server thread/INFO]: lugoflenbot lost connection: Disconnected
+[18:22:37] [Server thread/INFO]: lugoflenbot left the game
+[18:22:38] [Server thread/INFO]: lugoflen issued server command: /weather clear
+[18:22:38] [Server thread/INFO]: [lugoflen: Set the weather to clear]
+[18:26:32] [User Authenticator #8/INFO]: UUID of player lugoflenbot is e57338d1-01ca-3da1-878a-4dee86f4fc35
+[18:26:32] [Server thread/INFO]: lugoflenbot joined the game
+[18:26:32] [Server thread/INFO]: lugoflenbot[/127.102.239.27:49321] logged in with entity id 6872 at ([world]-341.69022836396556, 162.0, -161.59818183340536)
+[18:27:29] [Server thread/INFO]: lugoflen issued server command: /kick lugoflenbot
+[18:27:29] [Server thread/INFO]: lugoflenbot lost connection: Kicked by an operator
+[18:27:29] [Server thread/INFO]: lugoflenbot left the game
+[18:27:29] [Server thread/INFO]: [lugoflen: Kicked lugoflenbot: Kicked by an operator]
+[18:27:30] [User Authenticator #8/INFO]: UUID of player lugoflenbot is e57338d1-01ca-3da1-878a-4dee86f4fc35
+[18:27:30] [Server thread/INFO]: lugoflenbot joined the game
+[18:27:30] [Server thread/INFO]: lugoflenbot[/127.102.239.27:33715] logged in with entity id 6962 at ([world]-341.69022836396556, 162.0, -161.59818183340536)
+[18:28:46] [Server thread/INFO]: lugoflen issued server command: /tp lugoflenbot lugoflen
+[18:28:47] [Server thread/INFO]: [lugoflen: Teleported lugoflenbot to lugoflen]
+[18:30:04] [Server thread/INFO]: lugoflenbot2 lost connection: Disconnected
+[18:30:04] [Server thread/INFO]: lugoflenbot2 left the game
+[18:30:15] [Server thread/INFO]: lugoflenbot lost connection: Disconnected
+[18:30:15] [Server thread/INFO]: lugoflenbot left the game
