@@ -565,3 +565,5 @@ Source 0: com.viaversion.viabackwards.protocol.v1_20_3to1_20_2.Protocol1_20_3To1
 [19:44:30] [Async Chat Thread - #4/INFO]: [Not Secure] <lugoflen> hola
 [19:44:30] [Server thread/INFO]: DANTEMC lost connection: Disconnected
 [19:44:30] [Server thread/INFO]: DANTEMC left the game
+[19:52:16] [Server thread/INFO]: lugoflen lost connection: Disconnected
+[19:52:16] [Server thread/INFO]: lugoflen left the game
