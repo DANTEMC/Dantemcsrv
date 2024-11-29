@@ -545,3 +545,23 @@ Source 0: com.viaversion.viabackwards.protocol.v1_20_3to1_20_2.Protocol1_20_3To1
 [19:40:07] [Server thread/INFO]: DANTEMC[/127.174.86.161:52851] logged in with entity id 15151 at ([world]-208.442578807014, 81.0, -159.61088388691007)
 [19:40:22] [Server thread/INFO]: lugoflen issued server command: /tp DANTEMC lugoflen
 [19:40:22] [Server thread/INFO]: [lugoflen: Teleported DANTEMC to lugoflen]
+[19:42:31] [Server thread/INFO]: lugoflen issued server command: /kick DANTEMC
+[19:42:31] [Server thread/INFO]: DANTEMC lost connection: Kicked by an operator
+[19:42:31] [Server thread/INFO]: DANTEMC left the game
+[19:42:31] [Server thread/INFO]: [lugoflen: Kicked DANTEMC: Kicked by an operator]
+[19:43:12] [User Authenticator #24/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[19:43:12] [Server thread/INFO]: DANTEMC[/127.174.86.161:58727] logged in with entity id 15609 at ([world]-208.442578807014, 81.0, -159.61088388691007)
+[19:43:21] [Server thread/INFO]: lugoflen issued server command: /kick DANTEMC
+[19:43:21] [Server thread/INFO]: DANTEMC lost connection: Kicked by an operator
+[19:43:21] [Server thread/INFO]: DANTEMC left the game
+[19:43:21] [Server thread/INFO]: [lugoflen: Kicked DANTEMC: Kicked by an operator]
+[19:43:29] [User Authenticator #24/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[19:43:29] [Server thread/INFO]: DANTEMC[/127.174.86.161:36667] logged in with entity id 15661 at ([world]-208.442578807014, 81.0, -159.61088388691007)
+[19:43:55] [Async Chat Thread - #4/INFO]: [Not Secure] <lugoflen> hola
+[19:43:55] [Server thread/INFO]: DANTEMC lost connection: Disconnected
+[19:43:55] [Server thread/INFO]: DANTEMC left the game
+[19:44:25] [User Authenticator #24/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
+[19:44:25] [Server thread/INFO]: DANTEMC[/127.174.86.161:46899] logged in with entity id 15781 at ([world]-208.442578807014, 81.0, -159.61088388691007)
+[19:44:30] [Async Chat Thread - #4/INFO]: [Not Secure] <lugoflen> hola
+[19:44:30] [Server thread/INFO]: DANTEMC lost connection: Disconnected
+[19:44:30] [Server thread/INFO]: DANTEMC left the game
