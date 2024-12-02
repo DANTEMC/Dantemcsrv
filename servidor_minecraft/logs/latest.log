@@ -1,623 +1,74 @@
-[17:40:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:41:00] [ServerMain/INFO]: Loaded 1174 recipes
-[17:41:01] [ServerMain/INFO]: Loaded 1271 advancements
-[17:41:01] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[17:41:01] [Server thread/INFO]: Loading properties
-[17:41:01] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
-[17:41:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:41:02] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:41:02] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
-    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
-    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[17:41:02] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[17:41:03] [Server thread/INFO]: Default game type: SURVIVAL
-[17:41:03] [Server thread/INFO]: Generating keypair
-[17:41:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:41:03] [Server thread/INFO]: Using epoll channel type
-[17:41:03] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[17:41:03] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[17:41:03] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.3
-[17:41:03] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.3 is now loaded. Registering protocol transformers and injecting...
-[17:41:04] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[17:41:04] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[17:41:04] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[17:41:04] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[17:41:05] [Server thread/INFO]: [ViaRewind] Registering protocols...
-[17:41:05] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.0.3
-[17:41:05] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.2
-[17:41:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:41:05] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.2
-[17:41:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:41:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:41:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:41:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:41:05] [Server thread/INFO]: Preparing level "world"
-[17:41:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:41:06] [Server thread/INFO]: Time elapsed: 208 ms
-[17:41:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[17:41:06] [Server thread/INFO]: Time elapsed: 154 ms
-[17:41:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[17:41:06] [Server thread/INFO]: Time elapsed: 86 ms
-[17:41:06] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.3
-[17:41:06] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3-1.20.4 (765)
-[17:41:06] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.3
-[17:41:06] [Server thread/INFO]: Running delayed init tasks
-[17:41:06] [Server thread/INFO]: Done (5.361s)! For help, type "help"
-[17:41:06] [Server thread/INFO]: Timings Reset
-[17:41:06] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[17:41:07] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.1.1, you're on: 5.0.3
-[17:41:40] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[17:42:50] [User Authenticator #0/INFO]: UUID of player lugoflenbot2 is 42209a46-18ad-3a8f-9a22-f862b217e548
-[17:42:50] [Server thread/INFO]: lugoflenbot2 joined the game
-[17:42:50] [Server thread/INFO]: lugoflenbot2[/127.127.4.168:56859] logged in with entity id 229 at ([world]-207.5, 81.0, -166.5)
-[17:44:00] [User Authenticator #1/INFO]: UUID of player lugoflenbot is e57338d1-01ca-3da1-878a-4dee86f4fc35
-[17:44:00] [Server thread/INFO]: lugoflenbot joined the game
-[17:44:00] [Server thread/INFO]: lugoflenbot[/127.41.127.220:40355] logged in with entity id 476 at ([world]-203.5, 80.0, -166.5)
-[17:44:48] [Server thread/INFO]: lugoflenbot2 drowned
-[17:46:13] [Server thread/INFO]: lugoflenbot2 drowned
-[17:46:42] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
-[17:46:51] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[17:46:51] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[17:46:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:46:51] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:46:51] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.2
-[17:46:51] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.0.3
-[17:46:51] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.3
-[17:46:51] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling. If this is a reload and you experience issues, please reboot instead.
-[17:46:51] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[17:46:52] [Server thread/INFO]: Loaded 1174 recipes
-[17:46:52] [Server thread/INFO]: Loaded 1271 advancements
-[17:46:52] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.3
-[17:46:52] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.3 is now loaded. Registering protocol transformers and injecting...
-[17:46:52] [Server thread/ERROR]: [ViaVersion] ViaVersion is already loaded, this should work fine. If you get any console errors, try rebooting.
-[17:46:53] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[17:46:53] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[17:46:53] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[17:46:53] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[17:46:53] [Server thread/INFO]: [ViaRewind] Registering protocols...
-[17:46:53] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.0.3
-[17:46:53] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.2
-[17:46:53] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:46:53] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.2
-[17:46:53] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.3
-[17:46:53] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3-1.20.4 (765)
-[17:46:53] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.3
-[17:46:53] [Server thread/INFO]: CONSOLE: Reload complete.
-[17:46:53] [Server thread/INFO]: Timings Reset
-[17:46:53] [Craft Scheduler Thread - 6 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[17:46:54] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.1.1, you're on: 5.0.3
-[17:47:13] [User Authenticator #2/INFO]: UUID of player lugoflen is 64976df5-9f96-38cb-9551-2f371dcc84fe
-[17:47:15] [Server thread/INFO]: lugoflen joined the game
-[17:47:15] [Server thread/INFO]: lugoflen[/127.132.18.43:49397] logged in with entity id 972 at ([world]-210.5, 81.0, -151.5)
-[17:47:41] [Server thread/INFO]: lugoflenbot lost connection: Disconnected
-[17:47:41] [Server thread/INFO]: lugoflenbot left the game
-[17:48:00] [User Authenticator #2/INFO]: UUID of player lugoflenbot is e57338d1-01ca-3da1-878a-4dee86f4fc35
-[17:48:00] [Server thread/INFO]: lugoflenbot joined the game
-[17:48:00] [Server thread/INFO]: lugoflenbot[/127.41.127.220:52171] logged in with entity id 1077 at ([world]-200.3126412522245, 79.0, -171.71716057444297)
-[17:48:07] [Server thread/INFO]: Made lugoflen a server operator
-[17:48:14] [Server thread/INFO]: lugoflen issued server command: /op lugoflenbot2
-[17:48:14] [Server thread/INFO]: [lugoflen: Made lugoflenbot2 a server operator]
-[17:48:45] [Server thread/INFO]: lugoflenbot2 was slain by lugoflen
-[17:49:12] [Server thread/INFO]: lugoflen issued server command: /gamemode creative
-[17:49:12] [Server thread/INFO]: [lugoflen: Set own game mode to Creative Mode]
-[17:49:33] [Server thread/INFO]: lugoflenbot has made the advancement [Suit Up]
-[17:49:33] [Server thread/INFO]: lugoflenbot has completed the challenge [Cover Me in Debris]
-[17:50:56] [Server thread/INFO]: lugoflenbot was slain by Zombie
-[17:51:11] [Server thread/INFO]: lugoflen has made the advancement [Suit Up]
-[17:51:42] [Server thread/INFO]: lugoflenbot lost connection: Disconnected
-[17:51:42] [Server thread/INFO]: lugoflenbot left the game
-[17:52:08] [User Authenticator #3/INFO]: UUID of player lugoflenbot is e57338d1-01ca-3da1-878a-4dee86f4fc35
-[17:52:08] [Server thread/INFO]: lugoflenbot joined the game
-[17:52:08] [Server thread/INFO]: lugoflenbot[/127.41.127.220:45677] logged in with entity id 1596 at ([world]-210.5, 87.0, -159.5)
-[17:52:49] [Server thread/INFO]: lugoflenbot lost connection: Disconnected
-[17:52:49] [Server thread/INFO]: lugoflenbot left the game
-[17:52:54] [User Authenticator #3/INFO]: UUID of player lugoflenbot is e57338d1-01ca-3da1-878a-4dee86f4fc35
-[17:52:54] [Server thread/INFO]: lugoflenbot joined the game
-[17:52:54] [Server thread/INFO]: lugoflenbot[/127.41.127.220:53219] logged in with entity id 1690 at ([world]-210.5, 87.0, -159.5)
-[17:52:57] [Async Chat Thread - #0/INFO]: [Not Secure] <lugoflen> end
-[17:53:04] [Async Chat Thread - #0/INFO]: [Not Secure] <lugoflen> hey bot
-[17:53:07] [Async Chat Thread - #0/INFO]: [Not Secure] <lugoflen> stop
-[17:53:08] [Async Chat Thread - #0/INFO]: [Not Secure] <lugoflenbot> I will stop!
-[17:53:09] [Server thread/INFO]: lugoflenbot2 drowned
-[17:53:12] [Async Chat Thread - #0/INFO]: [Not Secure] <lugoflen> no
-[17:53:17] [Async Chat Thread - #0/INFO]: [Not Secure] <lugoflen> yo mother
-[17:53:32] [Async Chat Thread - #0/INFO]: [Not Secure] <lugoflen> right
-[17:54:02] [Async Chat Thread - #0/INFO]: [Not Secure] <lugoflen> a
-[17:54:03] [Server thread/INFO]: lugoflenbot2 was shot by Skeleton
-[17:54:14] [Async Chat Thread - #0/INFO]: [Not Secure] <lugoflen> guard
-[17:54:35] [Server thread/INFO]: lugoflenbot2 was slain by Zombie
-[17:54:57] [Server thread/INFO]: lugoflenbot2 was slain by Zombie
-[17:55:07] [Async Chat Thread - #0/INFO]: [Not Secure] <lugoflen> !guardpos
-[17:55:12] [Async Chat Thread - #0/INFO]: [Not Secure] <lugoflen> guardpos
-[17:55:34] [Server thread/INFO]: lugoflenbot2 was slain by Zombie
-[17:55:56] [Server thread/INFO]: lugoflenbot2 was slain by Zombie
-[17:56:08] [Async Chat Thread - #0/INFO]: [Not Secure] <lugoflen> stop
-[17:56:08] [Async Chat Thread - #0/INFO]: [Not Secure] <lugoflenbot> I will stop!
-[17:56:13] [Async Chat Thread - #0/INFO]: [Not Secure] <lugoflen> start
-[17:56:36] [Server thread/INFO]: lugoflenbot lost connection: Disconnected
-[17:56:36] [Server thread/INFO]: lugoflenbot left the game
-[17:57:25] [Server thread/INFO]: lugoflenbot2 drowned
-[17:57:57] [Server thread/INFO]: lugoflenbot2 drowned
-[17:58:42] [Server thread/INFO]: lugoflenbot2 was slain by Zombie
-[18:02:34] [Server thread/INFO]: lugoflenbot2 lost connection: Disconnected
-[18:02:34] [Server thread/INFO]: lugoflenbot2 left the game
-[18:03:45] [Server thread/INFO]: lugoflen has made the advancement [Cover Me with Diamonds]
-[18:03:59] [Server thread/INFO]: lugoflen lost connection: Disconnected
-[18:03:59] [Server thread/INFO]: lugoflen left the game
-[18:04:07] [User Authenticator #4/INFO]: UUID of player lugoflen is 64976df5-9f96-38cb-9551-2f371dcc84fe
-[18:04:08] [Server thread/INFO]: lugoflen joined the game
-[18:04:08] [Server thread/INFO]: lugoflen[/127.132.18.43:59319] logged in with entity id 3598 at ([world]-202.23725673985024, 86.0, -163.05719641115184)
-[18:09:50] [User Authenticator #5/INFO]: UUID of player lugoflenbot2 is 42209a46-18ad-3a8f-9a22-f862b217e548
-[18:09:50] [Server thread/INFO]: lugoflenbot2 joined the game
-[18:09:50] [Server thread/INFO]: lugoflenbot2[/127.87.38.188:48917] logged in with entity id 4207 at ([world]-176.7853192435725, 61.648484946681414, -217.54335564085562)
-[18:10:12] [Server thread/INFO]: lugoflenbot2 drowned
-[18:14:01] [Server thread/INFO]: lugoflenbot2 has made the advancement [Stone Age]
-[18:14:15] [Server thread/INFO]: lugoflen issued server command: /gamemode creative lugoflenbot2
-[18:14:15] [Server thread/INFO]: [lugoflen: Set lugoflenbot2's game mode to Creative Mode]
-[18:14:22] [Server thread/INFO]: lugoflenbot2 has made the advancement [Cover Me with Diamonds]
-[18:14:48] [Server thread/INFO]: lugoflen issued server command: /kill lugoflenbot2
-[18:14:48] [Server thread/INFO]: lugoflenbot2 was killed
-[18:14:48] [Server thread/INFO]: [lugoflen: Killed lugoflenbot2]
-[18:14:53] [Server thread/INFO]: lugoflen has made the advancement [Stone Age]
-[18:16:40] [Server thread/INFO]: lugoflen issued server command: /kick lugoflenbot2
-[18:16:40] [Server thread/INFO]: lugoflenbot2 lost connection: Kicked by an operator
-[18:16:40] [Server thread/INFO]: lugoflenbot2 left the game
-[18:16:40] [Server thread/INFO]: [lugoflen: Kicked lugoflenbot2: Kicked by an operator]
-[18:16:57] [User Authenticator #6/INFO]: UUID of player lugoflenbot2 is 42209a46-18ad-3a8f-9a22-f862b217e548
-[18:16:57] [Server thread/INFO]: lugoflenbot2 joined the game
-[18:16:57] [Server thread/INFO]: lugoflenbot2[/127.87.38.188:48193] logged in with entity id 5087 at ([world]-185.56106195114185, 62.067235370807474, -118.3)
-[18:17:17] [Server thread/INFO]: lugoflen issued server command: /kick lugoflenbot2
-[18:17:17] [Server thread/INFO]: lugoflenbot2 lost connection: Kicked by an operator
-[18:17:17] [Server thread/INFO]: lugoflenbot2 left the game
-[18:17:17] [Server thread/INFO]: [lugoflen: Kicked lugoflenbot2: Kicked by an operator]
-[18:17:34] [User Authenticator #6/INFO]: UUID of player lugoflenbot2 is 42209a46-18ad-3a8f-9a22-f862b217e548
-[18:17:34] [Server thread/INFO]: lugoflenbot2 joined the game
-[18:17:34] [Server thread/INFO]: lugoflenbot2[/127.87.38.188:49887] logged in with entity id 5393 at ([world]-170.4108645018959, 59.80111176290301, -109.2065313244955)
-[18:18:55] [User Authenticator #7/INFO]: UUID of player lugoflenbot is e57338d1-01ca-3da1-878a-4dee86f4fc35
-[18:18:55] [Server thread/INFO]: lugoflenbot joined the game
-[18:18:55] [Server thread/INFO]: lugoflenbot[/127.102.239.27:51145] logged in with entity id 5581 at ([world]-210.5, 87.0, -159.5)
-[18:20:53] [Server thread/INFO]: lugoflen issued server command: /gamemode creative lugoflenbot
-[18:20:53] [Server thread/INFO]: [lugoflen: Set lugoflenbot's game mode to Creative Mode]
-[18:21:16] [Server thread/INFO]: lugoflen issued server command: /tp lugoflenbot2 lugoflen
-[18:21:16] [Server thread/INFO]: [lugoflen: Teleported lugoflenbot2 to lugoflen]
-[18:21:44] [Server thread/INFO]: lugoflen issued server command: /setblock ~ ~ ~ minecraft:barrier
-[18:21:44] [Server thread/INFO]: [lugoflen: Changed the block at -342, 161, -162]
-[18:21:58] [Server thread/INFO]: lugoflen issued server command: /tp lugoflenbot lugoflen
-[18:21:58] [Server thread/INFO]: [lugoflen: Teleported lugoflenbot to lugoflen]
-[18:22:28] [Server thread/INFO]: lugoflen issued server command: /time set day
-[18:22:28] [Server thread/INFO]: [lugoflen: Set the time to 1000]
-[18:22:37] [Server thread/INFO]: lugoflenbot lost connection: Disconnected
-[18:22:37] [Server thread/INFO]: lugoflenbot left the game
-[18:22:38] [Server thread/INFO]: lugoflen issued server command: /weather clear
-[18:22:38] [Server thread/INFO]: [lugoflen: Set the weather to clear]
-[18:26:32] [User Authenticator #8/INFO]: UUID of player lugoflenbot is e57338d1-01ca-3da1-878a-4dee86f4fc35
-[18:26:32] [Server thread/INFO]: lugoflenbot joined the game
-[18:26:32] [Server thread/INFO]: lugoflenbot[/127.102.239.27:49321] logged in with entity id 6872 at ([world]-341.69022836396556, 162.0, -161.59818183340536)
-[18:27:29] [Server thread/INFO]: lugoflen issued server command: /kick lugoflenbot
-[18:27:29] [Server thread/INFO]: lugoflenbot lost connection: Kicked by an operator
-[18:27:29] [Server thread/INFO]: lugoflenbot left the game
-[18:27:29] [Server thread/INFO]: [lugoflen: Kicked lugoflenbot: Kicked by an operator]
-[18:27:30] [User Authenticator #8/INFO]: UUID of player lugoflenbot is e57338d1-01ca-3da1-878a-4dee86f4fc35
-[18:27:30] [Server thread/INFO]: lugoflenbot joined the game
-[18:27:30] [Server thread/INFO]: lugoflenbot[/127.102.239.27:33715] logged in with entity id 6962 at ([world]-341.69022836396556, 162.0, -161.59818183340536)
-[18:28:46] [Server thread/INFO]: lugoflen issued server command: /tp lugoflenbot lugoflen
-[18:28:47] [Server thread/INFO]: [lugoflen: Teleported lugoflenbot to lugoflen]
-[18:30:04] [Server thread/INFO]: lugoflenbot2 lost connection: Disconnected
-[18:30:04] [Server thread/INFO]: lugoflenbot2 left the game
-[18:30:15] [Server thread/INFO]: lugoflenbot lost connection: Disconnected
-[18:30:15] [Server thread/INFO]: lugoflenbot left the game
-[18:50:29] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
-[18:50:31] [Server thread/INFO]: Nothing changed. The player already is an operator
-[18:50:35] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[18:50:35] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[18:50:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:50:35] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:50:35] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.2
-[18:50:35] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.0.3
-[18:50:35] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.3
-[18:50:35] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling. If this is a reload and you experience issues, please reboot instead.
-[18:50:35] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[18:50:35] [Server thread/INFO]: Loaded 1174 recipes
-[18:50:36] [Server thread/INFO]: Loaded 1271 advancements
-[18:50:36] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.3
-[18:50:36] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.3 is now loaded. Registering protocol transformers and injecting...
-[18:50:36] [Server thread/ERROR]: [ViaVersion] ViaVersion is already loaded, this should work fine. If you get any console errors, try rebooting.
-[18:50:36] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[18:50:37] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[18:50:37] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[18:50:37] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[18:50:37] [Server thread/INFO]: [ViaRewind] Registering protocols...
-[18:50:37] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.0.3
-[18:50:37] [Server thread/INFO]: [UserLogin] Loading server plugin UserLogin v2.13.1
-[18:50:37] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.2
-[18:50:37] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:50:37] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.2
-[18:50:37] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.3
-[18:50:37] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3-1.20.4 (765)
-[18:50:37] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.3
-[18:50:37] [Server thread/INFO]: [UserLogin] Enabling UserLogin v2.13.1
-[18:50:37] [Server thread/INFO]: [UserLogin] UserLogin v2.13.1 enabled
-[18:50:37] [Server thread/INFO]: CONSOLE: Reload complete.
-[18:50:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2557ms or 51 ticks behind
-[18:50:37] [Server thread/INFO]: Timings Reset
-[18:50:37] [Craft Scheduler Thread - 18 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[18:50:37] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.1.1, you're on: 5.0.3
-[18:50:38] [Craft Scheduler Thread - 20 - UserLogin/INFO]: [UserLogin] Running latest version! (v2.13.1)
-[18:57:11] [User Authenticator #9/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[18:57:11] [Server thread/INFO]: DANTEMC[/127.174.86.161:42221] logged in with entity id 9707 at ([world]-208.0, 86.0, -160.0)
-[18:57:29] [Server thread/INFO]: lugoflen issued server command: /tp DANTEMC
-[18:57:29] [Server thread/INFO]: [lugoflen: Teleported lugoflen to DANTEMC]
-[18:57:36] [Server thread/INFO]: lugoflen issued server command: /op DANTEMC
-[18:57:36] [Server thread/INFO]: [lugoflen: Made DANTEMC a server operator]
-[18:57:45] [Server thread/INFO]: lugoflen issued server command: /gamemode creative DANTEMC
-[18:57:45] [Server thread/INFO]: [lugoflen: Set DANTEMC's game mode to Creative Mode]
-[18:58:11] [Server thread/INFO]: DANTEMC lost connection: You stayed for too much time without logging in
-[18:58:11] [Server thread/INFO]: DANTEMC left the game
-[18:58:12] [User Authenticator #10/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[18:58:12] [Server thread/INFO]: DANTEMC[/127.174.86.161:49365] logged in with entity id 9885 at ([world]-208.0, 86.0, -160.0)
-[18:58:34] [Server thread/INFO]: lugoflen issued server command: /gamemode survival
-[18:58:34] [Server thread/INFO]: [lugoflen: Set own game mode to Survival Mode]
-[18:58:48] [Server thread/INFO]: lugoflen issued server command: /gamemode survival DANTEMC
-[18:58:48] [Server thread/INFO]: [lugoflen: Set DANTEMC's game mode to Survival Mode]
-[18:58:54] [Server thread/INFO]: lugoflen issued server command: /gamemode creative
-[18:58:54] [Server thread/INFO]: [lugoflen: Set own game mode to Creative Mode]
-[18:59:12] [Server thread/INFO]: DANTEMC lost connection: You stayed for too much time without logging in
-[18:59:12] [Server thread/INFO]: DANTEMC left the game
-[18:59:13] [User Authenticator #11/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[18:59:13] [Server thread/INFO]: DANTEMC[/127.174.86.161:35745] logged in with entity id 10014 at ([world]-208.0, 86.0, -160.0)
-[19:00:13] [Server thread/INFO]: DANTEMC lost connection: You stayed for too much time without logging in
-[19:00:13] [Server thread/INFO]: DANTEMC left the game
-[19:00:14] [User Authenticator #12/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[19:00:14] [Server thread/INFO]: DANTEMC[/127.174.86.161:44377] logged in with entity id 10139 at ([world]-208.0, 86.0, -160.0)
-[19:01:14] [Server thread/INFO]: DANTEMC lost connection: You stayed for too much time without logging in
-[19:01:14] [Server thread/INFO]: DANTEMC left the game
-[19:01:15] [User Authenticator #13/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[19:01:15] [Server thread/INFO]: DANTEMC[/127.174.86.161:52503] logged in with entity id 10272 at ([world]-208.0, 86.0, -160.0)
-[19:02:15] [Server thread/INFO]: DANTEMC lost connection: You stayed for too much time without logging in
-[19:02:15] [Server thread/INFO]: DANTEMC left the game
-[19:02:15] [User Authenticator #14/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[19:02:15] [Server thread/INFO]: DANTEMC[/127.174.86.161:56225] logged in with entity id 10395 at ([world]-208.0, 86.0, -160.0)
-[19:02:20] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[19:02:20] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[19:02:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[19:02:20] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:02:20] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.2
-[19:02:20] [Server thread/INFO]: [UserLogin] Disabling UserLogin v2.13.1
-[19:02:20] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.0.3
-[19:02:20] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.3
-[19:02:20] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling. If this is a reload and you experience issues, please reboot instead.
-[19:02:20] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[19:02:20] [Server thread/INFO]: Loaded 1174 recipes
-[19:02:20] [Server thread/INFO]: Loaded 1271 advancements
-[19:02:21] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.3
-[19:02:21] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.3 is now loaded. Registering protocol transformers and injecting...
-[19:02:21] [Server thread/ERROR]: [ViaVersion] ViaVersion is already loaded, this should work fine. If you get any console errors, try rebooting.
-[19:02:21] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[19:02:21] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[19:02:21] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[19:02:21] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[19:02:22] [Server thread/INFO]: [ViaRewind] Registering protocols...
-[19:02:22] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.0.3
-[19:02:22] [Server thread/INFO]: [UserLogin] Loading server plugin UserLogin v2.13.1
-[19:02:22] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.2
-[19:02:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:02:22] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.2
-[19:02:22] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.3
-[19:02:22] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3-1.20.4 (765)
-[19:02:22] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.3
-[19:02:22] [Server thread/INFO]: [UserLogin] Enabling UserLogin v2.13.1
-[19:02:22] [Server thread/INFO]: [UserLogin] UserLogin v2.13.1 enabled
-[19:02:22] [Server thread/INFO]: CONSOLE: Reload complete.
-[19:02:22] [Server thread/INFO]: Timings Reset
-[19:02:22] [Craft Scheduler Thread - 28 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[19:02:22] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.1.1, you're on: 5.0.3
-[19:02:22] [Craft Scheduler Thread - 28 - UserLogin/INFO]: [UserLogin] Running latest version! (v2.13.1)
-[19:06:02] [Server thread/INFO]: DANTEMC lost connection: Disconnected
-[19:06:02] [Server thread/INFO]: DANTEMC left the game
-[19:06:04] [User Authenticator #15/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[19:06:04] [Server thread/INFO]: DANTEMC[/127.174.86.161:50743] logged in with entity id 10840 at ([world]-208.0, 86.0, -160.0)
-[19:06:05] [Server thread/INFO]: DANTEMC lost connection: Disconnected
-[19:06:05] [Server thread/INFO]: DANTEMC left the game
-[19:06:11] [User Authenticator #15/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[19:06:11] [Server thread/INFO]: DANTEMC[/127.174.86.161:54481] logged in with entity id 10851 at ([world]-208.0, 86.0, -160.0)
-[19:06:11] [Server thread/INFO]: DANTEMC lost connection: Disconnected
-[19:06:11] [Server thread/INFO]: DANTEMC left the game
-[19:06:29] [User Authenticator #15/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[19:06:29] [Server thread/INFO]: DANTEMC[/127.174.86.161:46403] logged in with entity id 10896 at ([world]-208.0, 86.0, -160.0)
-[19:06:29] [Server thread/INFO]: DANTEMC lost connection: Disconnected
-[19:06:29] [Server thread/INFO]: DANTEMC left the game
-[19:07:14] [User Authenticator #15/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[19:07:14] [Server thread/INFO]: DANTEMC[/127.174.86.161:49001] logged in with entity id 10974 at ([world]-208.0, 86.0, -160.0)
-[19:07:39] [Server thread/INFO]: DANTEMC lost connection: Disconnected
-[19:07:39] [Server thread/INFO]: DANTEMC left the game
-[19:07:41] [User Authenticator #15/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[19:07:41] [Server thread/INFO]: DANTEMC[/127.174.86.161:33833] logged in with entity id 11041 at ([world]-208.0, 86.0, -160.0)
-[19:07:42] [Server thread/INFO]: DANTEMC lost connection: Disconnected
-[19:07:42] [Server thread/INFO]: DANTEMC left the game
-[19:08:01] [User Authenticator #15/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[19:08:01] [Server thread/INFO]: DANTEMC[/127.174.86.161:45293] logged in with entity id 11071 at ([world]-208.0, 86.0, -160.0)
-[19:11:38] [Server thread/INFO]: DANTEMC lost connection: Disconnected
-[19:11:38] [Server thread/INFO]: DANTEMC left the game
-[19:11:40] [User Authenticator #16/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[19:11:40] [Server thread/INFO]: DANTEMC[/127.174.86.161:36001] logged in with entity id 11504 at ([world]-208.0, 86.0, -160.0)
-[19:11:40] [Server thread/INFO]: DANTEMC lost connection: Disconnected
-[19:11:40] [Server thread/INFO]: DANTEMC left the game
-[19:11:56] [User Authenticator #16/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[19:11:56] [Server thread/INFO]: DANTEMC[/127.174.86.161:34873] logged in with entity id 11528 at ([world]-208.0, 86.0, -160.0)
-[19:12:10] [Server thread/INFO]: lugoflen issued server command: /gamemode creative
-[19:12:41] [Server thread/INFO]: lugoflen issued server command: /gamemode creative
-[19:13:53] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[19:13:53] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[19:13:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[19:13:53] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:13:53] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.2
-[19:13:53] [Server thread/INFO]: [UserLogin] Disabling UserLogin v2.13.1
-[19:13:53] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.0.3
-[19:13:53] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.3
-[19:13:53] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling. If this is a reload and you experience issues, please reboot instead.
-[19:13:53] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[19:13:53] [Server thread/INFO]: Loaded 1174 recipes
-[19:13:54] [Server thread/INFO]: Loaded 1271 advancements
-[19:13:54] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.3
-[19:13:54] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.3 is now loaded. Registering protocol transformers and injecting...
-[19:13:54] [Server thread/ERROR]: [ViaVersion] ViaVersion is already loaded, this should work fine. If you get any console errors, try rebooting.
-[19:13:54] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[19:13:54] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[19:13:54] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[19:13:54] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[19:13:55] [Server thread/INFO]: [ViaRewind] Registering protocols...
-[19:13:55] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.0.3
-[19:13:55] [Server thread/INFO]: [UserLogin] Loading server plugin UserLogin v2.13.1
-[19:13:55] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.2
-[19:13:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:13:55] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.2
-[19:13:55] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.3
-[19:13:55] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3-1.20.4 (765)
-[19:13:55] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.3
-[19:13:55] [Server thread/INFO]: [UserLogin] Enabling UserLogin v2.13.1
-[19:13:55] [Server thread/INFO]: [UserLogin] UserLogin v2.13.1 enabled
-[19:13:55] [Server thread/INFO]: CONSOLE: Reload complete.
-[19:13:55] [Server thread/INFO]: Timings Reset
-[19:13:55] [Craft Scheduler Thread - 47 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[19:13:55] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.1.1, you're on: 5.0.3
-[19:13:55] [Craft Scheduler Thread - 49 - UserLogin/INFO]: [UserLogin] Running latest version! (v2.13.1)
-[19:14:30] [Server thread/INFO]: lugoflen has made the advancement [Monster Hunter]
-[19:14:30] [Netty Epoll Server IO #2/WARN]: [ViaVersion] ERROR IN Protocol1_20_3To1_20_2 IN REMAP OF SYSTEM_CHAT (0x69)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: io.netty.handler.codec.EncoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
-[19:14:30] [Netty Epoll Server IO #2/WARN]: Source 0: com.viaversion.viabackwards.protocol.v1_20_3to1_20_2.Protocol1_20_3To1_20_2$$Lambda/0x00007806e1cb9140
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:107)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:966)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:934)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:984)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at net.minecraft.network.NetworkManager.c(NetworkManager.java:449)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at net.minecraft.network.NetworkManager.lambda$sendPacket$10(NetworkManager.java:434)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:413)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: Caused by: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
-[19:14:30] [Netty Epoll Server IO #2/WARN]: Source 0: com.viaversion.viabackwards.protocol.v1_20_3to1_20_2.Protocol1_20_3To1_20_2$$Lambda/0x00007806e1cb9140
-[19:14:30] [Netty Epoll Server IO #2/WARN]: Caused by: java.lang.IllegalStateException: zip file closed
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at java.base/java.util.zip.ZipFile.ensureOpen(ZipFile.java:846)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at java.base/java.util.zip.ZipFile.getEntry(ZipFile.java:338)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at java.base/java.util.jar.JarFile.getEntry(JarFile.java:516)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at java.base/java.util.jar.JarFile.getJarEntry(JarFile.java:471)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:209)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:593)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:169)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at ViaVersion-5.0.3.jar//com.viaversion.nbt.tag.CompoundTag.toString(CompoundTag.java:491)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at java.base/java.lang.StringConcatHelper.stringOf(StringConcatHelper.java:467)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at java.base/java.lang.StringConcatHelper.simpleConcat(StringConcatHelper.java:422)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at ViaVersion-5.0.3.jar//com.viaversion.viaversion.util.ComponentUtil.tagToJson(ComponentUtil.java:63)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at ViaBackwards-5.0.3.jar//com.viaversion.viabackwards.protocol.v1_20_3to1_20_2.Protocol1_20_3To1_20_2.convertComponent(Protocol1_20_3To1_20_2.java:370)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at ViaVersion-5.0.3.jar//com.viaversion.viaversion.api.protocol.AbstractProtocol.transform(AbstractProtocol.java:405)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at ViaVersion-5.0.3.jar//com.viaversion.viaversion.protocol.packet.PacketWrapperImpl.apply(PacketWrapperImpl.java:369)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at ViaVersion-5.0.3.jar//com.viaversion.viaversion.protocol.ProtocolPipelineImpl.transform(ProtocolPipelineImpl.java:122)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at ViaVersion-5.0.3.jar//com.viaversion.viaversion.connection.UserConnectionImpl.transform(UserConnectionImpl.java:337)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at ViaVersion-5.0.3.jar//com.viaversion.viaversion.connection.UserConnectionImpl.transformClientbound(UserConnectionImpl.java:313)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at ViaVersion-5.0.3.jar//com.viaversion.viaversion.bukkit.handlers.BukkitEncodeHandler.encode(BukkitEncodeHandler.java:58)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at ViaVersion-5.0.3.jar//com.viaversion.viaversion.bukkit.handlers.BukkitEncodeHandler.encode(BukkitEncodeHandler.java:35)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:90)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:966)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:934)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:984)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at net.minecraft.network.NetworkManager.c(NetworkManager.java:449)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at net.minecraft.network.NetworkManager.lambda$sendPacket$10(NetworkManager.java:434)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:413)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
-[19:14:30] [Netty Epoll Server IO #2/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[19:14:30] [Server thread/INFO]: DANTEMC lost connection: Internal Exception: io.netty.handler.codec.EncoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
-Source 0: com.viaversion.viabackwards.protocol.v1_20_3to1_20_2.Protocol1_20_3To1_20_2$$Lambda/0x00007806e1cb9140
-[19:14:30] [Server thread/INFO]: DANTEMC left the game
-[19:15:10] [User Authenticator #17/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[19:15:10] [Server thread/INFO]: DANTEMC[/127.174.86.161:39601] logged in with entity id 11954 at ([world]-208.0, 86.0, -160.0)
-[19:15:17] [Server thread/INFO]: DANTEMC was slain by lugoflen
-[19:15:33] [Server thread/INFO]: lugoflen issued server command: /gamemode creative DANTEMC
-[19:15:33] [Server thread/INFO]: [lugoflen: Set DANTEMC's game mode to Creative Mode]
-[19:23:05] [User Authenticator #18/INFO]: UUID of player lugoflenbot2 is 42209a46-18ad-3a8f-9a22-f862b217e548
-[19:23:05] [Server thread/INFO]: lugoflenbot2[/127.26.30.54:36555] logged in with entity id 12901 at ([world]-208.0, 86.0, -160.0)
-[19:23:42] [Server thread/INFO]: lugoflen issued server command: /ul unregister
-[19:24:03] [Server thread/INFO]: lugoflen issued server command: /ul set login lugoflen
-[19:24:05] [Server thread/INFO]: lugoflenbot2 lost connection: You stayed for too much time without logging in
-[19:24:05] [Server thread/INFO]: lugoflenbot2 left the game
-[19:24:11] [Server thread/INFO]: lugoflen issued server command: /ul set login lugoflen
-[19:24:21] [User Authenticator #19/INFO]: UUID of player lugoflenbot2 is 42209a46-18ad-3a8f-9a22-f862b217e548
-[19:24:21] [Server thread/INFO]: lugoflenbot2[/127.26.30.54:55667] logged in with entity id 13063 at ([world]-208.442578807014, 81.0, -159.61088388691007)
-[19:24:35] [Server thread/INFO]: lugoflenbot2 lost connection: Disconnected
-[19:24:35] [Server thread/INFO]: lugoflenbot2 left the game
-[19:24:38] [User Authenticator #19/INFO]: UUID of player lugoflenbot2 is 42209a46-18ad-3a8f-9a22-f862b217e548
-[19:24:38] [Server thread/INFO]: lugoflenbot2[/127.26.30.54:53613] logged in with entity id 13091 at ([world]-208.442578807014, 81.0, -159.61088388691007)
-[19:25:38] [Server thread/INFO]: lugoflenbot2 lost connection: You stayed for too much time without logging in
-[19:25:38] [Server thread/INFO]: lugoflenbot2 left the game
-[19:26:01] [Server thread/INFO]: DANTEMC lost connection: Disconnected
-[19:26:01] [Server thread/INFO]: DANTEMC left the game
-[19:32:04] [User Authenticator #20/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[19:32:04] [Server thread/INFO]: DANTEMC[/127.174.86.161:36347] logged in with entity id 14010 at ([world]-208.442578807014, 81.0, -159.61088388691007)
-[19:32:20] [Server thread/INFO]: DANTEMC lost connection: Disconnected
-[19:32:20] [Server thread/INFO]: DANTEMC left the game
-[19:32:28] [User Authenticator #20/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[19:32:28] [Server thread/INFO]: DANTEMC[/127.174.86.161:51839] logged in with entity id 14062 at ([world]-208.442578807014, 81.0, -159.61088388691007)
-[19:32:28] [Server thread/INFO]: DANTEMC lost connection: Disconnected
-[19:32:28] [Server thread/INFO]: DANTEMC left the game
-[19:33:57] [User Authenticator #21/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[19:33:57] [Server thread/INFO]: DANTEMC[/127.174.86.161:59247] logged in with entity id 14246 at ([world]-208.442578807014, 81.0, -159.61088388691007)
-[19:34:26] [Server thread/INFO]: lugoflen issued server command: /tp DANTEMC lugoflen
-[19:34:26] [Server thread/INFO]: [lugoflen: Teleported DANTEMC to lugoflen]
-[19:34:59] [Server thread/INFO]: DANTEMC lost connection: Disconnected
-[19:34:59] [Server thread/INFO]: DANTEMC left the game
-[19:35:01] [User Authenticator #22/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[19:35:01] [Server thread/INFO]: DANTEMC[/127.174.86.161:34383] logged in with entity id 14406 at ([world]-208.442578807014, 81.0, -159.61088388691007)
-[19:35:02] [Async Chat Thread - #2/INFO]: [Not Secure] <DANTEMC> yo soy un jugador regular 
-[19:35:03] [Server thread/INFO]: DANTEMC lost connection: Disconnected
-[19:35:03] [Server thread/INFO]: DANTEMC left the game
-[19:35:13] [User Authenticator #22/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[19:35:13] [Server thread/INFO]: DANTEMC[/127.174.86.161:52385] logged in with entity id 14438 at ([world]-208.442578807014, 81.0, -159.61088388691007)
-[19:35:14] [Async Chat Thread - #2/INFO]: [Not Secure] <DANTEMC> yo soy un jugador regular 
-[19:35:14] [Server thread/INFO]: DANTEMC lost connection: Disconnected
-[19:35:14] [Server thread/INFO]: DANTEMC left the game
-[19:35:57] [User Authenticator #22/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[19:35:57] [Server thread/INFO]: DANTEMC[/127.174.86.161:42379] logged in with entity id 14527 at ([world]-208.442578807014, 81.0, -159.61088388691007)
-[19:35:59] [Async Chat Thread - #2/INFO]: [Not Secure] <DANTEMC> yo soy un jugador regular 
-[19:35:59] [Server thread/INFO]: DANTEMC lost connection: Disconnected
-[19:35:59] [Server thread/INFO]: DANTEMC left the game
-[19:36:34] [User Authenticator #22/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[19:36:34] [Server thread/INFO]: DANTEMC[/127.174.86.161:42723] logged in with entity id 14608 at ([world]-208.442578807014, 81.0, -159.61088388691007)
-[19:36:49] [Server thread/INFO]: DANTEMC lost connection: Disconnected
-[19:36:49] [Server thread/INFO]: DANTEMC left the game
-[19:37:02] [User Authenticator #22/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[19:37:02] [Server thread/INFO]: DANTEMC[/127.174.86.161:46235] logged in with entity id 14672 at ([world]-208.442578807014, 81.0, -159.61088388691007)
-[19:37:30] [Server thread/INFO]: DANTEMC lost connection: Disconnected
-[19:37:30] [Server thread/INFO]: DANTEMC left the game
-[19:37:43] [User Authenticator #22/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[19:37:43] [Server thread/INFO]: DANTEMC[/127.174.86.161:51441] logged in with entity id 14741 at ([world]-208.442578807014, 81.0, -159.61088388691007)
-[19:38:02] [Server thread/INFO]: DANTEMC lost connection: Disconnected
-[19:38:02] [Server thread/INFO]: DANTEMC left the game
-[19:38:05] [User Authenticator #22/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[19:38:05] [Server thread/INFO]: DANTEMC[/127.174.86.161:46905] logged in with entity id 14790 at ([world]-208.442578807014, 81.0, -159.61088388691007)
-[19:38:35] [Server thread/INFO]: DANTEMC lost connection: Disconnected
-[19:38:35] [Server thread/INFO]: DANTEMC left the game
-[19:38:37] [User Authenticator #22/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[19:38:37] [Server thread/INFO]: DANTEMC[/127.174.86.161:38885] logged in with entity id 14850 at ([world]-208.442578807014, 81.0, -159.61088388691007)
-[19:38:55] [Server thread/INFO]: DANTEMC lost connection: Disconnected
-[19:38:55] [Server thread/INFO]: DANTEMC left the game
-[19:38:57] [User Authenticator #22/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[19:38:57] [Server thread/INFO]: DANTEMC[/127.174.86.161:51693] logged in with entity id 14891 at ([world]-208.442578807014, 81.0, -159.61088388691007)
-[19:38:57] [Server thread/INFO]: DANTEMC lost connection: Disconnected
-[19:38:57] [Server thread/INFO]: DANTEMC left the game
-[19:40:07] [User Authenticator #23/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[19:40:07] [Server thread/INFO]: DANTEMC[/127.174.86.161:52851] logged in with entity id 15151 at ([world]-208.442578807014, 81.0, -159.61088388691007)
-[19:40:22] [Server thread/INFO]: lugoflen issued server command: /tp DANTEMC lugoflen
-[19:40:22] [Server thread/INFO]: [lugoflen: Teleported DANTEMC to lugoflen]
-[19:42:31] [Server thread/INFO]: lugoflen issued server command: /kick DANTEMC
-[19:42:31] [Server thread/INFO]: DANTEMC lost connection: Kicked by an operator
-[19:42:31] [Server thread/INFO]: DANTEMC left the game
-[19:42:31] [Server thread/INFO]: [lugoflen: Kicked DANTEMC: Kicked by an operator]
-[19:43:12] [User Authenticator #24/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[19:43:12] [Server thread/INFO]: DANTEMC[/127.174.86.161:58727] logged in with entity id 15609 at ([world]-208.442578807014, 81.0, -159.61088388691007)
-[19:43:21] [Server thread/INFO]: lugoflen issued server command: /kick DANTEMC
-[19:43:21] [Server thread/INFO]: DANTEMC lost connection: Kicked by an operator
-[19:43:21] [Server thread/INFO]: DANTEMC left the game
-[19:43:21] [Server thread/INFO]: [lugoflen: Kicked DANTEMC: Kicked by an operator]
-[19:43:29] [User Authenticator #24/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[19:43:29] [Server thread/INFO]: DANTEMC[/127.174.86.161:36667] logged in with entity id 15661 at ([world]-208.442578807014, 81.0, -159.61088388691007)
-[19:43:55] [Async Chat Thread - #4/INFO]: [Not Secure] <lugoflen> hola
-[19:43:55] [Server thread/INFO]: DANTEMC lost connection: Disconnected
-[19:43:55] [Server thread/INFO]: DANTEMC left the game
-[19:44:25] [User Authenticator #24/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[19:44:25] [Server thread/INFO]: DANTEMC[/127.174.86.161:46899] logged in with entity id 15781 at ([world]-208.442578807014, 81.0, -159.61088388691007)
-[19:44:30] [Async Chat Thread - #4/INFO]: [Not Secure] <lugoflen> hola
-[19:44:30] [Server thread/INFO]: DANTEMC lost connection: Disconnected
-[19:44:30] [Server thread/INFO]: DANTEMC left the game
-[19:52:16] [Server thread/INFO]: lugoflen lost connection: Disconnected
-[19:52:16] [Server thread/INFO]: lugoflen left the game
-[20:28:34] [User Authenticator #25/INFO]: UUID of player lugoflen is 64976df5-9f96-38cb-9551-2f371dcc84fe
-[20:28:36] [Server thread/INFO]: lugoflen[/127.132.18.43:58621] logged in with entity id 16743 at ([world]-208.442578807014, 81.0, -159.61088388691007)
-[20:29:45] [User Authenticator #26/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[20:29:45] [Server thread/INFO]: DANTEMC[/127.53.204.132:46819] logged in with entity id 17022 at ([world]-208.442578807014, 81.0, -159.61088388691007)
-[20:29:52] [Server thread/INFO]: lugoflen issued server command: /tp DANTEMC
-[20:29:52] [Server thread/INFO]: [lugoflen: Teleported lugoflen to DANTEMC]
-[20:30:45] [Server thread/INFO]: DANTEMC lost connection: You stayed for too much time without logging in
-[20:30:45] [Server thread/INFO]: DANTEMC left the game
-[20:31:05] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[20:31:05] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[20:31:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:31:05] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:31:05] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.2
-[20:31:05] [Server thread/INFO]: [UserLogin] Disabling UserLogin v2.13.1
-[20:31:05] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.0.3
-[20:31:05] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.3
-[20:31:05] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling. If this is a reload and you experience issues, please reboot instead.
-[20:31:05] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[20:31:05] [Server thread/INFO]: Loaded 1174 recipes
-[20:31:05] [Server thread/INFO]: Loaded 1271 advancements
-[20:31:06] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.3
-[20:31:06] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.3 is now loaded. Registering protocol transformers and injecting...
-[20:31:06] [Server thread/ERROR]: [ViaVersion] ViaVersion is already loaded, this should work fine. If you get any console errors, try rebooting.
-[20:31:06] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[20:31:06] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[20:31:06] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[20:31:06] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[20:31:06] [Server thread/INFO]: [ViaRewind] Registering protocols...
-[20:31:07] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.0.3
-[20:31:07] [Server thread/INFO]: [UserLogin] Loading server plugin UserLogin v2.13.1
-[20:31:07] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.2
-[20:31:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:31:07] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.2
-[20:31:07] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.3
-[20:31:07] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3-1.20.4 (765)
-[20:31:07] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.3
-[20:31:07] [Server thread/INFO]: [UserLogin] Enabling UserLogin v2.13.1
-[20:31:07] [Server thread/INFO]: [UserLogin] UserLogin v2.13.1 enabled
-[20:31:07] [Server thread/INFO]: CONSOLE: Reload complete.
-[20:31:07] [Server thread/INFO]: Timings Reset
-[20:31:07] [Craft Scheduler Thread - 96 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[20:31:07] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.1.1, you're on: 5.0.3
-[20:31:07] [Craft Scheduler Thread - 98 - UserLogin/INFO]: [UserLogin] Running latest version! (v2.13.1)
-[20:31:52] [User Authenticator #27/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[20:31:52] [Server thread/INFO]: DANTEMC[/127.53.204.132:49845] logged in with entity id 17335 at ([world]-208.442578807014, 81.0, -159.61088388691007)
-[20:32:24] [Server thread/INFO]: lugoflen issued server command: /ul help
-[20:32:52] [Server thread/INFO]: DANTEMC lost connection: You stayed for too much time without logging in
-[20:32:52] [Server thread/INFO]: DANTEMC left the game
-[20:33:12] [User Authenticator #28/INFO]: UUID of player DANTEMC is 82530bfc-6678-31be-96ea-ffedcc20f7de
-[20:33:12] [Server thread/INFO]: DANTEMC[/127.53.204.132:40845] logged in with entity id 17499 at ([world]-208.442578807014, 81.0, -159.61088388691007)
-[20:34:12] [Server thread/INFO]: DANTEMC lost connection: You stayed for too much time without logging in
-[20:34:12] [Server thread/INFO]: DANTEMC left the game
-[20:55:02] [Server thread/INFO]: lugoflen lost connection: Disconnected
-[20:55:02] [Server thread/INFO]: lugoflen left the game
+[20:27:50] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[20:27:50] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[20:27:50] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[20:27:50] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[20:27:50] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[20:27:50] [main/INFO] [FML]: Searching /workspaces/Dantemcsrv/servidor_minecraft/./mods for mods
+[20:27:50] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:27:50] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[20:27:50] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:27:50] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:27:50] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:27:51] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[20:27:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:27:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[20:27:52] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[20:27:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[20:27:52] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[20:27:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[20:27:54] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[20:27:54] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[20:27:55] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[20:27:55] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[20:27:55] [Server thread/INFO] [FML]: Config directory created successfully
+[20:27:55] [Server thread/INFO] [FML]: Searching /workspaces/Dantemcsrv/servidor_minecraft/./mods for mods
+[20:27:55] [Server thread/INFO] [FML]: Forge Mod Loader has identified 4 mods to load
+[20:27:55] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[20:27:56] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at CLIENT
+[20:27:56] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at SERVER
+[20:27:56] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[20:27:56] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[20:27:56] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[20:27:56] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[20:27:56] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[20:27:56] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[20:27:56] [Server thread/INFO] [FML]: Applying holder lookups
+[20:27:56] [Server thread/INFO] [FML]: Holder lookups applied
+[20:27:56] [Server thread/INFO] [FML]: Applying holder lookups
+[20:27:56] [Server thread/INFO] [FML]: Holder lookups applied
+[20:27:56] [Server thread/INFO] [FML]: Applying holder lookups
+[20:27:56] [Server thread/INFO] [FML]: Holder lookups applied
+[20:27:56] [Server thread/INFO] [FML]: Applying holder lookups
+[20:27:56] [Server thread/INFO] [FML]: Holder lookups applied
+[20:27:56] [Server thread/INFO] [FML]: Injecting itemstacks
+[20:27:56] [Server thread/INFO] [FML]: Itemstack injection complete
+[20:27:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[20:27:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[20:27:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[20:27:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[20:27:56] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[20:27:56] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:27:56] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[20:27:56] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:27:56] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:27:56] [Server thread/INFO] [FML]: Applying holder lookups
+[20:27:56] [Server thread/INFO] [FML]: Holder lookups applied
+[20:27:56] [Server thread/INFO] [FML]: Injecting itemstacks
+[20:27:56] [Server thread/INFO] [FML]: Itemstack injection complete
+[20:27:56] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 4 mods
+[20:27:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[20:27:57] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[20:27:56] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@58cdc3a6)
+[20:27:57] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[20:27:57] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@58cdc3a6)
+[20:27:57] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@58cdc3a6)
+[20:27:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[20:27:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 8%
+[20:27:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 19%
+[20:28:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 33%
+[20:28:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 51%
+[20:28:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 65%
+[20:28:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 87%
+[20:28:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (7.597s)! For help, type "help" or "?"
+[20:28:04] [Server thread/INFO] [FML]: Unloading dimension -1
+[20:28:04] [Server thread/INFO] [FML]: Unloading dimension 1
